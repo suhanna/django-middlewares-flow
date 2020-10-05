@@ -26,7 +26,7 @@ Sample django project to identify the middleware methods and their flow in reque
   - SecondMiddleware
     > With methods process_request, process_view and process_response
 
-## How to interactwith django-middlewares-flow
+## Interact with django-middlewares-flow
 1. Download django-middlewares-flow
 2. Open terminal
 3. Create and activate a virtual env for django-middlewares-flow using python3
